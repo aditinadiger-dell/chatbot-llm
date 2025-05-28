@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+flask
+transformers
+torch
+sentence-transformers
+faiss-cpu
+pytest
